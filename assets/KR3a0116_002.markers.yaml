@@ -963,6 +963,7 @@ markers:
   - {type: substitution, offset: 3577, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16785}}
   - {type: substitution, offset: 3581, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16574}}
   - {type: punctuation, offset: 3582, content: (, id: KR3a0116_krp_002-bkkpn1}
+  - {type: voice, offset: 3582, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 3585, content: /, id: KR3a0116_krp_002-bkkpn2}
   - {type: punctuation, offset: 3587, content: ), id: KR3a0116_krp_002-bkkpn3}
   - {type: substitution, offset: 3589, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16574}}
@@ -972,6 +973,7 @@ markers:
   - {type: line-break, offset: 3591, content: '', id: KR3a0116_WYG_002-12b02}
   - {type: substitution, offset: 3595, original: 氾, replacement: 泛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16574}}
   - {type: punctuation, offset: 3596, content: (, id: KR3a0116_krp_002-bkkpn4}
+  - {type: voice, offset: 3596, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 3600, content: /, id: KR3a0116_krp_002-bkkpn5}
   - {type: punctuation, offset: 3603, content: ), id: KR3a0116_krp_002-bkkpn6}
   - {type: 'kr:newline', offset: 3615, content: '
@@ -1112,4 +1114,4 @@ markers:
 
       ', id: KR3a0116_krp_002-bkkkrnewl233}
   back: []
-hash: sha256:f510bfbc1973d2fd999bda2b9f620cb3289db3f8dbb1846216292a52b8aa1708
+hash: sha256:385e553bf10429c6ef57f4afb5be15022a1a722e5461b5a77d7149bb54ca0da8
